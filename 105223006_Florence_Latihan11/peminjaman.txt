@@ -1,0 +1,4 @@
+Nama Pengguna: Flo
+ID Buku: B001
+Lama Peminjaman: 12 hari
+-------------------------------

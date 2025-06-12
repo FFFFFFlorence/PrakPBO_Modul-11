@@ -1,4 +1,4 @@
-// package checked;
+package checked;
 import java.io.*;
 
 

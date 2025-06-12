@@ -1,4 +1,4 @@
-// package unchecked;
+package unchecked;
 
 public class App {
     public static void main(String[] args) {
